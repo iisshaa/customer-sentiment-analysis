@@ -1,0 +1,501 @@
+ReviewID,CustomerID,ProductName,Category,Rating,ReviewText,ReviewDate,Channel,Country
+REV0001,CUST3286,Running Shoes,Footwear,4,This product changed my daily routine for the better!,2024-04-24,Website,India
+REV0002,CUST4582,Running Shoes,Footwear,3,Product is okay. Does what it's supposed to do.,2024-02-17,Mobile App,India
+REV0003,CUST8359,Protein Powder,Nutrition,5,Fantastic quality and fast delivery. Very happy with my order.,2024-04-22,In-Store,USA
+REV0004,CUST4527,Wireless Headphones,Electronics,3,Standard quality. Delivery took longer than expected.,2024-03-20,In-Store,USA
+REV0005,CUST5333,Running Shoes,Footwear,5,Excellent value for money. Works perfectly as described.,2024-11-05,Website,Australia
+REV0006,CUST5803,Protein Powder,Nutrition,4,Great product! Customer service was also very helpful.,2024-10-09,In-Store,India
+REV0007,CUST2307,Wireless Headphones,Electronics,3,Product is okay. Does what it's supposed to do.,2024-05-28,Mobile App,USA
+REV0008,CUST6820,Yoga Mat,Sports,4,Excellent value for money. Works perfectly as described.,2024-07-08,Mobile App,Canada
+REV0009,CUST8573,Running Shoes,Footwear,3,Decent product for the price. Could be better.,2024-03-24,Social Media,Canada
+REV0010,CUST1525,Protein Powder,Nutrition,4,Excellent value for money. Works perfectly as described.,2024-04-27,In-Store,Australia
+REV0011,CUST9179,Smart Watch,Electronics,5,Totally worth every penny. Love everything about it!,2024-04-18,Social Media,Australia
+REV0012,CUST8019,Wireless Headphones,Electronics,5,Fantastic quality and fast delivery. Very happy with my order.,2024-10-26,Social Media,Canada
+REV0013,CUST1771,Wireless Headphones,Electronics,2,Worst product I've ever bought. Do not recommend.,2024-02-16,Website,UK
+REV0014,CUST7252,Wireless Headphones,Electronics,3,"Works as described. Nothing more, nothing less.",2024-07-16,Social Media,India
+REV0015,CUST9797,Smart Watch,Electronics,1,Very disappointed. Product quality is terrible.,2024-12-15,In-Store,Canada
+REV0016,CUST5315,Running Shoes,Footwear,5,"Amazing product, will definitely buy again. Highly recommend!",2024-01-02,Mobile App,India
+REV0017,CUST7126,Running Shoes,Footwear,1,Terrible experience. Product arrived damaged.,2024-03-19,Mobile App,India
+REV0018,CUST1319,Protein Powder,Nutrition,2,Absolute garbage. Save your money and look elsewhere.,2024-09-07,Website,Canada
+REV0019,CUST8962,Smart Watch,Electronics,4,Fantastic quality and fast delivery. Very happy with my order.,2024-02-13,Website,India
+REV0020,CUST9645,Wireless Headphones,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-05-15,Social Media,UK
+REV0021,CUST7118,Protein Powder,Nutrition,3,It's alright. Not the best I've used but not the worst either.,2024-07-23,Social Media,India
+REV0022,CUST1344,Yoga Mat,Sports,4,Fantastic quality and fast delivery. Very happy with my order.,2024-06-22,Mobile App,India
+REV0023,CUST1514,Wireless Headphones,Electronics,4,Absolutely love this product! Exceeded all my expectations.,2024-02-04,In-Store,USA
+REV0024,CUST3167,Protein Powder,Nutrition,4,Five stars all the way. Incredible quality and comfort.,2024-10-03,Social Media,UK
+REV0025,CUST8062,Yoga Mat,Sports,1,Extremely poor quality. Nothing like shown in photos.,2024-02-19,In-Store,Australia
+REV0026,CUST7596,Yoga Mat,Sports,4,Absolutely love this product! Exceeded all my expectations.,2024-02-01,In-Store,USA
+REV0027,CUST7912,Wireless Headphones,Electronics,5,Really impressed with the build quality and performance.,2024-03-12,Mobile App,Canada
+REV0028,CUST2604,Yoga Mat,Sports,5,Best purchase I've made this year. Quality is outstanding.,2024-10-08,Website,India
+REV0029,CUST8956,Running Shoes,Footwear,1,Extremely poor quality. Nothing like shown in photos.,2024-07-27,Social Media,UK
+REV0030,CUST7396,Yoga Mat,Sports,2,Worst product I've ever bought. Do not recommend.,2024-01-02,In-Store,Australia
+REV0031,CUST4111,Smart Watch,Electronics,5,Really impressed with the build quality and performance.,2024-03-20,In-Store,UK
+REV0032,CUST1936,Running Shoes,Footwear,3,Fine for occasional use but not for heavy duty.,2024-06-09,Website,India
+REV0033,CUST9320,Yoga Mat,Sports,4,Really impressed with the build quality and performance.,2024-01-30,Website,UK
+REV0034,CUST5033,Running Shoes,Footwear,3,It's alright. Not the best I've used but not the worst either.,2024-03-02,Website,India
+REV0035,CUST4346,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-05-13,In-Store,UK
+REV0036,CUST2188,Smart Watch,Electronics,5,This product changed my daily routine for the better!,2024-06-10,Website,Australia
+REV0037,CUST4492,Protein Powder,Nutrition,1,Waste of money. Broke after just two weeks of use.,2024-10-02,In-Store,UK
+REV0038,CUST3584,Smart Watch,Electronics,2,Extremely poor quality. Nothing like shown in photos.,2024-05-25,Social Media,India
+REV0039,CUST5905,Smart Watch,Electronics,3,Fine for occasional use but not for heavy duty.,2024-12-07,Website,UK
+REV0040,CUST5616,Smart Watch,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-05-19,Mobile App,Canada
+REV0041,CUST1832,Wireless Headphones,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-05-08,Website,Australia
+REV0042,CUST5291,Smart Watch,Electronics,4,Excellent value for money. Works perfectly as described.,2024-11-22,Mobile App,Australia
+REV0043,CUST2232,Protein Powder,Nutrition,3,Fine for occasional use but not for heavy duty.,2024-02-27,Mobile App,India
+REV0044,CUST3088,Running Shoes,Footwear,1,Absolute garbage. Save your money and look elsewhere.,2024-08-08,Website,Canada
+REV0045,CUST5088,Smart Watch,Electronics,2,Very disappointed. Product quality is terrible.,2024-04-17,Website,Canada
+REV0046,CUST3662,Protein Powder,Nutrition,1,Not worth the price at all. Very cheap materials.,2024-05-01,Mobile App,Australia
+REV0047,CUST5065,Running Shoes,Footwear,5,Excellent value for money. Works perfectly as described.,2024-12-08,In-Store,UK
+REV0048,CUST4269,Running Shoes,Footwear,5,Absolutely love this product! Exceeded all my expectations.,2024-04-23,Social Media,Canada
+REV0049,CUST4164,Smart Watch,Electronics,1,Extremely poor quality. Nothing like shown in photos.,2024-01-13,Social Media,Canada
+REV0050,CUST9346,Smart Watch,Electronics,2,Terrible experience. Product arrived damaged.,2024-11-24,Social Media,India
+REV0051,CUST5349,Smart Watch,Electronics,2,Waste of money. Broke after just two weeks of use.,2024-04-01,Website,USA
+REV0052,CUST9379,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-11-06,Website,Australia
+REV0053,CUST9518,Protein Powder,Nutrition,5,Absolutely love this product! Exceeded all my expectations.,2024-01-01,Mobile App,Canada
+REV0054,CUST3041,Yoga Mat,Sports,5,Excellent value for money. Works perfectly as described.,2024-12-05,In-Store,India
+REV0055,CUST5844,Smart Watch,Electronics,3,Standard quality. Delivery took longer than expected.,2024-12-22,Mobile App,UK
+REV0056,CUST5930,Yoga Mat,Sports,3,"Works as described. Nothing more, nothing less.",2024-11-11,Social Media,India
+REV0057,CUST6279,Running Shoes,Footwear,5,Fantastic quality and fast delivery. Very happy with my order.,2024-10-23,Social Media,Australia
+REV0058,CUST2389,Yoga Mat,Sports,3,Fine for occasional use but not for heavy duty.,2024-03-27,In-Store,India
+REV0059,CUST4262,Protein Powder,Nutrition,5,Fantastic quality and fast delivery. Very happy with my order.,2024-04-25,Mobile App,USA
+REV0060,CUST7790,Running Shoes,Footwear,4,Five stars all the way. Incredible quality and comfort.,2024-08-21,Mobile App,Australia
+REV0061,CUST7965,Yoga Mat,Sports,4,"Amazing product, will definitely buy again. Highly recommend!",2024-02-24,Mobile App,UK
+REV0062,CUST8478,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-03-03,Mobile App,Australia
+REV0063,CUST9270,Protein Powder,Nutrition,2,Absolute garbage. Save your money and look elsewhere.,2024-08-14,Social Media,India
+REV0064,CUST5050,Yoga Mat,Sports,2,Horrible product. Customer service was unhelpful too.,2024-05-12,In-Store,India
+REV0065,CUST5681,Yoga Mat,Sports,3,Meets basic expectations. Packaging could be improved.,2024-02-09,Mobile App,Canada
+REV0066,CUST3471,Smart Watch,Electronics,4,Really impressed with the build quality and performance.,2024-03-11,Mobile App,Australia
+REV0067,CUST6421,Wireless Headphones,Electronics,3,Average quality. Nothing special but works fine.,2024-07-27,Social Media,Australia
+REV0068,CUST1320,Running Shoes,Footwear,5,Great product! Customer service was also very helpful.,2024-10-26,Social Media,Australia
+REV0069,CUST9818,Running Shoes,Footwear,2,Terrible experience. Product arrived damaged.,2024-08-02,Mobile App,Australia
+REV0070,CUST6507,Wireless Headphones,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-07-18,Social Media,UK
+REV0071,CUST1444,Yoga Mat,Sports,1,Absolute garbage. Save your money and look elsewhere.,2024-07-20,Website,Australia
+REV0072,CUST7211,Wireless Headphones,Electronics,1,Worst product I've ever bought. Do not recommend.,2024-05-13,In-Store,UK
+REV0073,CUST5133,Yoga Mat,Sports,5,Great product! Customer service was also very helpful.,2024-08-03,Website,Australia
+REV0074,CUST2124,Running Shoes,Footwear,3,Product is okay. Does what it's supposed to do.,2024-04-24,Website,USA
+REV0075,CUST3068,Wireless Headphones,Electronics,4,Absolutely love this product! Exceeded all my expectations.,2024-05-02,Social Media,USA
+REV0076,CUST3749,Protein Powder,Nutrition,2,Horrible product. Customer service was unhelpful too.,2024-07-07,Website,UK
+REV0077,CUST7149,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-10-21,Social Media,UK
+REV0078,CUST5941,Running Shoes,Footwear,3,It's alright. Not the best I've used but not the worst either.,2024-12-22,Website,India
+REV0079,CUST9289,Running Shoes,Footwear,5,Great product! Customer service was also very helpful.,2024-02-05,In-Store,USA
+REV0080,CUST8532,Yoga Mat,Sports,2,Waste of money. Broke after just two weeks of use.,2024-07-04,Mobile App,Australia
+REV0081,CUST8136,Wireless Headphones,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-08-26,In-Store,Canada
+REV0082,CUST4995,Wireless Headphones,Electronics,2,Waste of money. Broke after just two weeks of use.,2024-08-18,Social Media,India
+REV0083,CUST6325,Protein Powder,Nutrition,3,Standard quality. Delivery took longer than expected.,2024-09-10,Mobile App,Australia
+REV0084,CUST5526,Wireless Headphones,Electronics,5,This product changed my daily routine for the better!,2024-05-23,Website,India
+REV0085,CUST4937,Wireless Headphones,Electronics,5,Great product! Customer service was also very helpful.,2024-10-11,Social Media,Australia
+REV0086,CUST7625,Yoga Mat,Sports,3,Average quality. Nothing special but works fine.,2024-04-23,Mobile App,Canada
+REV0087,CUST6419,Protein Powder,Nutrition,5,Really impressed with the build quality and performance.,2024-08-05,In-Store,Australia
+REV0088,CUST6169,Smart Watch,Electronics,4,Fantastic quality and fast delivery. Very happy with my order.,2024-04-08,Website,India
+REV0089,CUST9595,Wireless Headphones,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-10-28,In-Store,USA
+REV0090,CUST1231,Wireless Headphones,Electronics,4,Excellent value for money. Works perfectly as described.,2024-06-03,Mobile App,Canada
+REV0091,CUST3068,Running Shoes,Footwear,2,Fell apart within days. Very poorly made.,2024-12-23,Social Media,USA
+REV0092,CUST6582,Running Shoes,Footwear,3,Okay product. Not sure if I'd buy again.,2024-08-13,Mobile App,USA
+REV0093,CUST7565,Smart Watch,Electronics,1,Horrible product. Customer service was unhelpful too.,2024-02-03,Social Media,USA
+REV0094,CUST5978,Protein Powder,Nutrition,3,Product is okay. Does what it's supposed to do.,2024-03-17,Website,UK
+REV0095,CUST7232,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-09-24,Social Media,Australia
+REV0096,CUST1986,Smart Watch,Electronics,2,Not worth the price at all. Very cheap materials.,2024-10-18,Website,UK
+REV0097,CUST3847,Wireless Headphones,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-05-02,Website,UK
+REV0098,CUST1534,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-05-29,Mobile App,Canada
+REV0099,CUST4824,Smart Watch,Electronics,3,Okay product. Not sure if I'd buy again.,2024-12-17,In-Store,India
+REV0100,CUST3441,Wireless Headphones,Electronics,4,Really impressed with the build quality and performance.,2024-11-27,In-Store,UK
+REV0101,CUST3037,Running Shoes,Footwear,5,This product changed my daily routine for the better!,2024-08-12,Social Media,Canada
+REV0102,CUST2317,Yoga Mat,Sports,2,Fell apart within days. Very poorly made.,2024-08-12,Website,Australia
+REV0103,CUST1339,Smart Watch,Electronics,3,Product is okay. Does what it's supposed to do.,2024-04-27,In-Store,India
+REV0104,CUST8245,Running Shoes,Footwear,3,Decent product for the price. Could be better.,2024-09-22,In-Store,UK
+REV0105,CUST6700,Protein Powder,Nutrition,4,Five stars all the way. Incredible quality and comfort.,2024-08-28,Social Media,Canada
+REV0106,CUST9117,Smart Watch,Electronics,3,Decent product for the price. Could be better.,2024-07-29,In-Store,Australia
+REV0107,CUST6296,Protein Powder,Nutrition,5,Best purchase I've made this year. Quality is outstanding.,2024-05-09,Website,Australia
+REV0108,CUST1888,Protein Powder,Nutrition,2,Very disappointed. Product quality is terrible.,2024-07-30,Mobile App,India
+REV0109,CUST4335,Smart Watch,Electronics,3,Okay product. Not sure if I'd buy again.,2024-01-27,In-Store,India
+REV0110,CUST1472,Wireless Headphones,Electronics,2,Horrible product. Customer service was unhelpful too.,2024-03-03,Mobile App,UK
+REV0111,CUST4681,Smart Watch,Electronics,3,Fine for occasional use but not for heavy duty.,2024-02-17,Website,Australia
+REV0112,CUST9337,Running Shoes,Footwear,3,Decent product for the price. Could be better.,2024-05-29,In-Store,Australia
+REV0113,CUST3369,Yoga Mat,Sports,2,Extremely poor quality. Nothing like shown in photos.,2024-10-09,Social Media,UK
+REV0114,CUST7798,Protein Powder,Nutrition,4,"Amazing product, will definitely buy again. Highly recommend!",2024-05-21,In-Store,India
+REV0115,CUST9022,Smart Watch,Electronics,2,Terrible experience. Product arrived damaged.,2024-10-27,Mobile App,Australia
+REV0116,CUST6272,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-08-21,Mobile App,UK
+REV0117,CUST8749,Protein Powder,Nutrition,4,Great product! Customer service was also very helpful.,2024-06-11,Social Media,Australia
+REV0118,CUST6439,Wireless Headphones,Electronics,4,Absolutely love this product! Exceeded all my expectations.,2024-09-14,Website,Australia
+REV0119,CUST7717,Running Shoes,Footwear,4,Five stars all the way. Incredible quality and comfort.,2024-03-14,Mobile App,USA
+REV0120,CUST7512,Yoga Mat,Sports,3,Meets basic expectations. Packaging could be improved.,2024-11-15,Website,Canada
+REV0121,CUST1588,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-10-04,Website,UK
+REV0122,CUST2646,Smart Watch,Electronics,2,Waste of money. Broke after just two weeks of use.,2024-02-20,Social Media,UK
+REV0123,CUST5806,Smart Watch,Electronics,2,Very disappointed. Product quality is terrible.,2024-01-29,In-Store,Canada
+REV0124,CUST3950,Yoga Mat,Sports,5,Really impressed with the build quality and performance.,2024-10-16,Mobile App,UK
+REV0125,CUST3344,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-09-11,Mobile App,Australia
+REV0126,CUST9955,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-05-27,Mobile App,USA
+REV0127,CUST7951,Yoga Mat,Sports,2,Absolute garbage. Save your money and look elsewhere.,2024-11-23,In-Store,Australia
+REV0128,CUST4886,Smart Watch,Electronics,5,Great product! Customer service was also very helpful.,2024-02-24,Social Media,India
+REV0129,CUST7484,Smart Watch,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-12-03,In-Store,USA
+REV0130,CUST4770,Protein Powder,Nutrition,2,Very disappointed. Product quality is terrible.,2024-05-26,In-Store,UK
+REV0131,CUST1645,Wireless Headphones,Electronics,3,Decent product for the price. Could be better.,2024-11-17,In-Store,Australia
+REV0132,CUST6352,Running Shoes,Footwear,3,Decent product for the price. Could be better.,2024-05-31,Social Media,UK
+REV0133,CUST9221,Wireless Headphones,Electronics,5,Really impressed with the build quality and performance.,2024-09-28,In-Store,UK
+REV0134,CUST2886,Smart Watch,Electronics,2,Horrible product. Customer service was unhelpful too.,2024-06-22,Social Media,USA
+REV0135,CUST6992,Wireless Headphones,Electronics,3,It's alright. Not the best I've used but not the worst either.,2024-10-12,Website,Australia
+REV0136,CUST5295,Running Shoes,Footwear,5,Best purchase I've made this year. Quality is outstanding.,2024-07-07,Social Media,Canada
+REV0137,CUST6374,Running Shoes,Footwear,3,Okay product. Not sure if I'd buy again.,2024-11-13,Mobile App,USA
+REV0138,CUST3290,Yoga Mat,Sports,2,Terrible experience. Product arrived damaged.,2024-02-29,Website,USA
+REV0139,CUST9807,Smart Watch,Electronics,1,Waste of money. Broke after just two weeks of use.,2024-04-30,Mobile App,Australia
+REV0140,CUST3531,Yoga Mat,Sports,5,Really impressed with the build quality and performance.,2024-10-27,Social Media,USA
+REV0141,CUST7070,Yoga Mat,Sports,3,Meets basic expectations. Packaging could be improved.,2024-12-19,Mobile App,Australia
+REV0142,CUST7018,Yoga Mat,Sports,1,Completely useless. Returned immediately.,2024-12-17,In-Store,USA
+REV0143,CUST4475,Yoga Mat,Sports,5,Best purchase I've made this year. Quality is outstanding.,2024-02-16,Website,USA
+REV0144,CUST4394,Smart Watch,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-02-05,Mobile App,UK
+REV0145,CUST3370,Smart Watch,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-05-21,Mobile App,India
+REV0146,CUST1243,Smart Watch,Electronics,3,Average quality. Nothing special but works fine.,2024-03-08,In-Store,UK
+REV0147,CUST3076,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-01-27,Social Media,India
+REV0148,CUST9408,Running Shoes,Footwear,3,Okay product. Not sure if I'd buy again.,2024-07-04,Website,Australia
+REV0149,CUST9543,Protein Powder,Nutrition,4,Totally worth every penny. Love everything about it!,2024-12-03,In-Store,Australia
+REV0150,CUST2768,Running Shoes,Footwear,5,Five stars all the way. Incredible quality and comfort.,2024-08-06,Social Media,Australia
+REV0151,CUST3067,Running Shoes,Footwear,1,Completely useless. Returned immediately.,2024-02-03,In-Store,India
+REV0152,CUST9692,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-11-01,In-Store,Australia
+REV0153,CUST4522,Protein Powder,Nutrition,3,Average quality. Nothing special but works fine.,2024-12-01,Social Media,Australia
+REV0154,CUST2557,Wireless Headphones,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-07-31,In-Store,Australia
+REV0155,CUST8770,Smart Watch,Electronics,3,Standard quality. Delivery took longer than expected.,2024-12-17,Website,USA
+REV0156,CUST1982,Running Shoes,Footwear,5,Best purchase I've made this year. Quality is outstanding.,2024-03-07,In-Store,USA
+REV0157,CUST6119,Yoga Mat,Sports,4,Great product! Customer service was also very helpful.,2024-05-27,In-Store,USA
+REV0158,CUST2773,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-04-24,In-Store,India
+REV0159,CUST1430,Smart Watch,Electronics,4,This product changed my daily routine for the better!,2024-08-07,In-Store,USA
+REV0160,CUST1100,Wireless Headphones,Electronics,5,This product changed my daily routine for the better!,2024-06-28,Mobile App,UK
+REV0161,CUST1502,Protein Powder,Nutrition,3,Average quality. Nothing special but works fine.,2024-11-20,Website,India
+REV0162,CUST7062,Wireless Headphones,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-03-21,In-Store,Canada
+REV0163,CUST1815,Protein Powder,Nutrition,3,Product is okay. Does what it's supposed to do.,2024-03-21,Website,Canada
+REV0164,CUST5475,Yoga Mat,Sports,3,Okay product. Not sure if I'd buy again.,2024-07-31,Mobile App,India
+REV0165,CUST8972,Running Shoes,Footwear,5,Best purchase I've made this year. Quality is outstanding.,2024-12-13,In-Store,USA
+REV0166,CUST4349,Wireless Headphones,Electronics,4,Totally worth every penny. Love everything about it!,2024-01-04,In-Store,UK
+REV0167,CUST1126,Wireless Headphones,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-03-02,Social Media,Australia
+REV0168,CUST6802,Wireless Headphones,Electronics,4,Really impressed with the build quality and performance.,2024-09-13,Website,Australia
+REV0169,CUST8033,Running Shoes,Footwear,4,Five stars all the way. Incredible quality and comfort.,2024-06-09,Social Media,Australia
+REV0170,CUST8538,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-03-28,In-Store,USA
+REV0171,CUST7560,Yoga Mat,Sports,2,Extremely poor quality. Nothing like shown in photos.,2024-10-28,Website,Australia
+REV0172,CUST2251,Smart Watch,Electronics,3,It's alright. Not the best I've used but not the worst either.,2024-03-27,Website,India
+REV0173,CUST3419,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-11-26,Mobile App,USA
+REV0174,CUST2234,Wireless Headphones,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-12-01,Mobile App,Australia
+REV0175,CUST6295,Yoga Mat,Sports,3,Acceptable. Some minor issues but overall okay.,2024-12-14,In-Store,UK
+REV0176,CUST1920,Yoga Mat,Sports,5,Five stars all the way. Incredible quality and comfort.,2024-05-20,In-Store,India
+REV0177,CUST7041,Running Shoes,Footwear,4,Five stars all the way. Incredible quality and comfort.,2024-01-30,In-Store,USA
+REV0178,CUST1672,Running Shoes,Footwear,3,Fine for occasional use but not for heavy duty.,2024-08-24,Social Media,India
+REV0179,CUST8381,Wireless Headphones,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-02-01,Website,Canada
+REV0180,CUST8172,Running Shoes,Footwear,4,"Amazing product, will definitely buy again. Highly recommend!",2024-05-06,Social Media,India
+REV0181,CUST7347,Protein Powder,Nutrition,3,Standard quality. Delivery took longer than expected.,2024-05-24,Social Media,Canada
+REV0182,CUST2548,Protein Powder,Nutrition,4,Excellent value for money. Works perfectly as described.,2024-06-17,Social Media,Canada
+REV0183,CUST2335,Smart Watch,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-06-19,Mobile App,Canada
+REV0184,CUST2388,Smart Watch,Electronics,1,Not worth the price at all. Very cheap materials.,2024-10-31,In-Store,India
+REV0185,CUST9624,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-12-09,Website,Australia
+REV0186,CUST4509,Protein Powder,Nutrition,5,Excellent value for money. Works perfectly as described.,2024-04-02,In-Store,Australia
+REV0187,CUST5846,Wireless Headphones,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-02-09,Website,India
+REV0188,CUST6517,Protein Powder,Nutrition,1,Fell apart within days. Very poorly made.,2024-12-04,Mobile App,India
+REV0189,CUST1715,Yoga Mat,Sports,4,"Amazing product, will definitely buy again. Highly recommend!",2024-08-12,Social Media,Canada
+REV0190,CUST4833,Wireless Headphones,Electronics,2,Absolute garbage. Save your money and look elsewhere.,2024-08-17,Mobile App,Canada
+REV0191,CUST8218,Yoga Mat,Sports,2,Extremely poor quality. Nothing like shown in photos.,2024-12-13,Social Media,Canada
+REV0192,CUST3267,Yoga Mat,Sports,4,Great product! Customer service was also very helpful.,2024-04-12,In-Store,USA
+REV0193,CUST9452,Yoga Mat,Sports,1,Fell apart within days. Very poorly made.,2024-12-30,Website,Canada
+REV0194,CUST3414,Running Shoes,Footwear,3,Meets basic expectations. Packaging could be improved.,2024-09-19,Social Media,USA
+REV0195,CUST1872,Wireless Headphones,Electronics,1,Completely useless. Returned immediately.,2024-07-31,Social Media,India
+REV0196,CUST1461,Smart Watch,Electronics,5,Best purchase I've made this year. Quality is outstanding.,2024-04-24,In-Store,USA
+REV0197,CUST8740,Smart Watch,Electronics,3,Decent product for the price. Could be better.,2024-05-26,Mobile App,Australia
+REV0198,CUST4533,Yoga Mat,Sports,3,Average quality. Nothing special but works fine.,2024-05-11,Mobile App,India
+REV0199,CUST5934,Protein Powder,Nutrition,5,Best purchase I've made this year. Quality is outstanding.,2024-05-01,Website,USA
+REV0200,CUST2816,Wireless Headphones,Electronics,5,Totally worth every penny. Love everything about it!,2024-02-02,Social Media,India
+REV0201,CUST5772,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-03-14,Social Media,USA
+REV0202,CUST2402,Protein Powder,Nutrition,5,Totally worth every penny. Love everything about it!,2024-04-05,In-Store,USA
+REV0203,CUST8702,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-07-18,Website,Australia
+REV0204,CUST6649,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-02-04,Mobile App,USA
+REV0205,CUST6772,Protein Powder,Nutrition,3,Standard quality. Delivery took longer than expected.,2024-01-23,In-Store,UK
+REV0206,CUST2033,Yoga Mat,Sports,1,Horrible product. Customer service was unhelpful too.,2024-03-10,Social Media,USA
+REV0207,CUST6080,Smart Watch,Electronics,4,Fantastic quality and fast delivery. Very happy with my order.,2024-06-10,Social Media,India
+REV0208,CUST1783,Yoga Mat,Sports,5,Fantastic quality and fast delivery. Very happy with my order.,2024-07-01,In-Store,Canada
+REV0209,CUST7334,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-08-13,In-Store,UK
+REV0210,CUST7955,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-02-12,Website,Australia
+REV0211,CUST2680,Protein Powder,Nutrition,2,Worst product I've ever bought. Do not recommend.,2024-06-13,Website,Canada
+REV0212,CUST8272,Smart Watch,Electronics,5,Totally worth every penny. Love everything about it!,2024-03-26,In-Store,Australia
+REV0213,CUST1939,Running Shoes,Footwear,3,Standard quality. Delivery took longer than expected.,2024-05-20,Website,Australia
+REV0214,CUST8179,Smart Watch,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-03-14,Website,UK
+REV0215,CUST1530,Running Shoes,Footwear,5,Excellent value for money. Works perfectly as described.,2024-07-15,Mobile App,Australia
+REV0216,CUST7012,Smart Watch,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-09-28,Social Media,Canada
+REV0217,CUST9176,Smart Watch,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-04-05,Social Media,India
+REV0218,CUST5678,Running Shoes,Footwear,5,This product changed my daily routine for the better!,2024-04-19,Social Media,UK
+REV0219,CUST8292,Running Shoes,Footwear,5,Best purchase I've made this year. Quality is outstanding.,2024-03-29,Website,Canada
+REV0220,CUST3580,Smart Watch,Electronics,3,Fine for occasional use but not for heavy duty.,2024-06-02,Mobile App,Canada
+REV0221,CUST9094,Protein Powder,Nutrition,4,Fantastic quality and fast delivery. Very happy with my order.,2024-05-01,Website,Canada
+REV0222,CUST2412,Protein Powder,Nutrition,3,Okay product. Not sure if I'd buy again.,2024-11-09,Website,Canada
+REV0223,CUST2208,Yoga Mat,Sports,2,Horrible product. Customer service was unhelpful too.,2024-07-28,Mobile App,Canada
+REV0224,CUST3981,Running Shoes,Footwear,5,Really impressed with the build quality and performance.,2024-03-06,Mobile App,Australia
+REV0225,CUST3507,Protein Powder,Nutrition,1,Very disappointed. Product quality is terrible.,2024-09-22,In-Store,UK
+REV0226,CUST5653,Wireless Headphones,Electronics,5,Fantastic quality and fast delivery. Very happy with my order.,2024-09-22,Website,Canada
+REV0227,CUST5961,Wireless Headphones,Electronics,3,Fine for occasional use but not for heavy duty.,2024-03-05,Website,India
+REV0228,CUST6531,Wireless Headphones,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-03-28,Website,USA
+REV0229,CUST4453,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-11-29,Social Media,India
+REV0230,CUST5949,Running Shoes,Footwear,5,Really impressed with the build quality and performance.,2024-11-24,Social Media,UK
+REV0231,CUST8202,Yoga Mat,Sports,4,Best purchase I've made this year. Quality is outstanding.,2024-03-21,Social Media,Australia
+REV0232,CUST6231,Yoga Mat,Sports,4,Totally worth every penny. Love everything about it!,2024-06-09,In-Store,Australia
+REV0233,CUST4960,Wireless Headphones,Electronics,3,Fine for occasional use but not for heavy duty.,2024-06-12,Social Media,USA
+REV0234,CUST5754,Smart Watch,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-01-26,Social Media,India
+REV0235,CUST6123,Yoga Mat,Sports,5,"Amazing product, will definitely buy again. Highly recommend!",2024-10-22,Mobile App,UK
+REV0236,CUST9148,Yoga Mat,Sports,2,Horrible product. Customer service was unhelpful too.,2024-06-06,Website,USA
+REV0237,CUST6781,Yoga Mat,Sports,4,Fantastic quality and fast delivery. Very happy with my order.,2024-10-25,Website,USA
+REV0238,CUST1133,Smart Watch,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-10-01,Website,Australia
+REV0239,CUST1741,Wireless Headphones,Electronics,2,Completely useless. Returned immediately.,2024-07-06,Social Media,USA
+REV0240,CUST7329,Protein Powder,Nutrition,3,Standard quality. Delivery took longer than expected.,2024-02-07,Social Media,India
+REV0241,CUST2584,Smart Watch,Electronics,1,Absolute garbage. Save your money and look elsewhere.,2024-03-06,Social Media,Canada
+REV0242,CUST9341,Smart Watch,Electronics,3,Standard quality. Delivery took longer than expected.,2024-04-11,Social Media,India
+REV0243,CUST9508,Running Shoes,Footwear,5,"Amazing product, will definitely buy again. Highly recommend!",2024-08-30,Social Media,UK
+REV0244,CUST6218,Protein Powder,Nutrition,2,Worst product I've ever bought. Do not recommend.,2024-11-09,Mobile App,Australia
+REV0245,CUST9351,Protein Powder,Nutrition,3,Meets basic expectations. Packaging could be improved.,2024-09-16,Social Media,India
+REV0246,CUST2795,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-06-18,Social Media,India
+REV0247,CUST4728,Smart Watch,Electronics,3,Product is okay. Does what it's supposed to do.,2024-05-15,Website,India
+REV0248,CUST4968,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-03-16,Website,India
+REV0249,CUST3481,Running Shoes,Footwear,5,Five stars all the way. Incredible quality and comfort.,2024-08-02,Social Media,UK
+REV0250,CUST3262,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-02-01,Mobile App,India
+REV0251,CUST3837,Smart Watch,Electronics,2,Horrible product. Customer service was unhelpful too.,2024-06-09,Social Media,India
+REV0252,CUST5038,Smart Watch,Electronics,5,This product changed my daily routine for the better!,2024-04-08,In-Store,India
+REV0253,CUST4396,Smart Watch,Electronics,5,This product changed my daily routine for the better!,2024-12-26,Social Media,Canada
+REV0254,CUST9899,Yoga Mat,Sports,5,This product changed my daily routine for the better!,2024-03-03,Social Media,Australia
+REV0255,CUST5712,Smart Watch,Electronics,2,Worst product I've ever bought. Do not recommend.,2024-01-22,Website,Canada
+REV0256,CUST9824,Yoga Mat,Sports,3,Okay product. Not sure if I'd buy again.,2024-04-13,In-Store,India
+REV0257,CUST1831,Smart Watch,Electronics,4,Totally worth every penny. Love everything about it!,2024-05-04,Mobile App,UK
+REV0258,CUST3252,Running Shoes,Footwear,5,Excellent value for money. Works perfectly as described.,2024-02-21,Website,India
+REV0259,CUST4267,Wireless Headphones,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-11-29,In-Store,Canada
+REV0260,CUST1611,Smart Watch,Electronics,3,Average quality. Nothing special but works fine.,2024-09-30,Mobile App,Australia
+REV0261,CUST4052,Wireless Headphones,Electronics,2,Very disappointed. Product quality is terrible.,2024-09-10,In-Store,USA
+REV0262,CUST5662,Running Shoes,Footwear,4,Totally worth every penny. Love everything about it!,2024-06-20,Social Media,India
+REV0263,CUST4159,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-05-19,Website,Canada
+REV0264,CUST6523,Wireless Headphones,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-01-08,In-Store,India
+REV0265,CUST6372,Wireless Headphones,Electronics,5,Great product! Customer service was also very helpful.,2024-09-20,Website,Australia
+REV0266,CUST5064,Running Shoes,Footwear,5,"Amazing product, will definitely buy again. Highly recommend!",2024-06-14,Website,Canada
+REV0267,CUST1187,Yoga Mat,Sports,5,This product changed my daily routine for the better!,2024-06-03,In-Store,Canada
+REV0268,CUST3616,Wireless Headphones,Electronics,5,Best purchase I've made this year. Quality is outstanding.,2024-06-06,Social Media,India
+REV0269,CUST4618,Smart Watch,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-11-10,Mobile App,UK
+REV0270,CUST9998,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-07-31,Social Media,India
+REV0271,CUST8319,Wireless Headphones,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-09-26,In-Store,USA
+REV0272,CUST9792,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-10-20,Mobile App,UK
+REV0273,CUST4365,Smart Watch,Electronics,1,Horrible product. Customer service was unhelpful too.,2024-12-14,Social Media,USA
+REV0274,CUST9409,Protein Powder,Nutrition,5,Absolutely love this product! Exceeded all my expectations.,2024-03-08,Social Media,Australia
+REV0275,CUST7487,Protein Powder,Nutrition,5,Five stars all the way. Incredible quality and comfort.,2024-01-12,In-Store,USA
+REV0276,CUST2044,Wireless Headphones,Electronics,3,Product is okay. Does what it's supposed to do.,2024-06-25,Website,USA
+REV0277,CUST7887,Yoga Mat,Sports,4,Great product! Customer service was also very helpful.,2024-03-10,In-Store,Australia
+REV0278,CUST9835,Yoga Mat,Sports,2,Not worth the price at all. Very cheap materials.,2024-02-11,Mobile App,Canada
+REV0279,CUST3086,Running Shoes,Footwear,5,Really impressed with the build quality and performance.,2024-09-27,Mobile App,USA
+REV0280,CUST7214,Running Shoes,Footwear,2,Horrible product. Customer service was unhelpful too.,2024-09-29,Mobile App,UK
+REV0281,CUST1527,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-02-27,Social Media,India
+REV0282,CUST1550,Running Shoes,Footwear,4,Best purchase I've made this year. Quality is outstanding.,2024-10-31,Social Media,India
+REV0283,CUST4839,Running Shoes,Footwear,5,Absolutely love this product! Exceeded all my expectations.,2024-08-12,Mobile App,USA
+REV0284,CUST6224,Wireless Headphones,Electronics,4,This product changed my daily routine for the better!,2024-10-21,In-Store,UK
+REV0285,CUST5923,Smart Watch,Electronics,1,Fell apart within days. Very poorly made.,2024-07-30,In-Store,USA
+REV0286,CUST9120,Protein Powder,Nutrition,2,Worst product I've ever bought. Do not recommend.,2024-10-11,Website,Canada
+REV0287,CUST3444,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-07-28,In-Store,Australia
+REV0288,CUST5927,Wireless Headphones,Electronics,3,Okay product. Not sure if I'd buy again.,2024-04-25,Mobile App,Australia
+REV0289,CUST4978,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-07-17,In-Store,UK
+REV0290,CUST9775,Smart Watch,Electronics,3,Okay product. Not sure if I'd buy again.,2024-02-17,Mobile App,USA
+REV0291,CUST4082,Smart Watch,Electronics,4,Totally worth every penny. Love everything about it!,2024-02-07,Mobile App,Australia
+REV0292,CUST4470,Wireless Headphones,Electronics,2,Completely useless. Returned immediately.,2024-01-08,Mobile App,USA
+REV0293,CUST4921,Yoga Mat,Sports,1,Absolute garbage. Save your money and look elsewhere.,2024-07-22,In-Store,Canada
+REV0294,CUST6892,Yoga Mat,Sports,5,Excellent value for money. Works perfectly as described.,2024-05-13,Social Media,Australia
+REV0295,CUST7073,Running Shoes,Footwear,2,Horrible product. Customer service was unhelpful too.,2024-04-14,In-Store,Australia
+REV0296,CUST5272,Running Shoes,Footwear,3,It's alright. Not the best I've used but not the worst either.,2024-01-09,Social Media,Canada
+REV0297,CUST5026,Wireless Headphones,Electronics,5,Fantastic quality and fast delivery. Very happy with my order.,2024-10-18,Social Media,India
+REV0298,CUST3756,Smart Watch,Electronics,5,Five stars all the way. Incredible quality and comfort.,2024-08-23,In-Store,UK
+REV0299,CUST1962,Wireless Headphones,Electronics,3,Okay product. Not sure if I'd buy again.,2024-10-04,Website,USA
+REV0300,CUST4791,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-11-18,Website,UK
+REV0301,CUST8916,Running Shoes,Footwear,5,Five stars all the way. Incredible quality and comfort.,2024-01-31,Social Media,USA
+REV0302,CUST9673,Running Shoes,Footwear,4,Great product! Customer service was also very helpful.,2024-01-09,In-Store,India
+REV0303,CUST2578,Smart Watch,Electronics,4,Great product! Customer service was also very helpful.,2024-02-24,Mobile App,UK
+REV0304,CUST7502,Wireless Headphones,Electronics,3,Meets basic expectations. Packaging could be improved.,2024-05-16,Website,Canada
+REV0305,CUST2320,Yoga Mat,Sports,4,Fantastic quality and fast delivery. Very happy with my order.,2024-06-02,Website,USA
+REV0306,CUST1154,Yoga Mat,Sports,5,Really impressed with the build quality and performance.,2024-01-29,Mobile App,USA
+REV0307,CUST1697,Yoga Mat,Sports,1,Completely useless. Returned immediately.,2024-09-27,Mobile App,UK
+REV0308,CUST5593,Protein Powder,Nutrition,4,Absolutely love this product! Exceeded all my expectations.,2024-12-16,Website,UK
+REV0309,CUST7525,Smart Watch,Electronics,4,Fantastic quality and fast delivery. Very happy with my order.,2024-12-30,Website,Canada
+REV0310,CUST9856,Wireless Headphones,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-12-12,In-Store,Australia
+REV0311,CUST2600,Wireless Headphones,Electronics,3,Average quality. Nothing special but works fine.,2024-01-28,Social Media,UK
+REV0312,CUST1485,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-06-16,In-Store,Australia
+REV0313,CUST4043,Yoga Mat,Sports,5,Really impressed with the build quality and performance.,2024-08-09,Social Media,USA
+REV0314,CUST5390,Protein Powder,Nutrition,4,Fantastic quality and fast delivery. Very happy with my order.,2024-02-12,Mobile App,Australia
+REV0315,CUST2499,Wireless Headphones,Electronics,3,Standard quality. Delivery took longer than expected.,2024-02-24,Website,Canada
+REV0316,CUST2430,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-03-08,Mobile App,Australia
+REV0317,CUST1430,Yoga Mat,Sports,3,Fine for occasional use but not for heavy duty.,2024-02-22,Website,Canada
+REV0318,CUST1202,Protein Powder,Nutrition,5,Totally worth every penny. Love everything about it!,2024-07-16,In-Store,Australia
+REV0319,CUST9537,Yoga Mat,Sports,3,Fine for occasional use but not for heavy duty.,2024-10-19,Mobile App,Australia
+REV0320,CUST3390,Wireless Headphones,Electronics,5,This product changed my daily routine for the better!,2024-09-09,Website,UK
+REV0321,CUST6916,Yoga Mat,Sports,5,This product changed my daily routine for the better!,2024-02-09,In-Store,UK
+REV0322,CUST3219,Yoga Mat,Sports,3,It's alright. Not the best I've used but not the worst either.,2024-02-24,In-Store,USA
+REV0323,CUST8212,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-06-17,In-Store,Australia
+REV0324,CUST6147,Protein Powder,Nutrition,4,Excellent value for money. Works perfectly as described.,2024-09-02,Mobile App,Australia
+REV0325,CUST7161,Smart Watch,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-06-15,In-Store,Australia
+REV0326,CUST9939,Smart Watch,Electronics,4,Totally worth every penny. Love everything about it!,2024-10-30,Mobile App,India
+REV0327,CUST5773,Running Shoes,Footwear,1,Horrible product. Customer service was unhelpful too.,2024-08-12,Website,Australia
+REV0328,CUST3525,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-05-09,Social Media,Australia
+REV0329,CUST7566,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-10-25,Social Media,India
+REV0330,CUST5067,Running Shoes,Footwear,3,Standard quality. Delivery took longer than expected.,2024-02-25,In-Store,UK
+REV0331,CUST2735,Protein Powder,Nutrition,5,Great product! Customer service was also very helpful.,2024-08-08,Website,USA
+REV0332,CUST7129,Smart Watch,Electronics,4,Really impressed with the build quality and performance.,2024-08-16,Social Media,Australia
+REV0333,CUST8909,Protein Powder,Nutrition,3,Decent product for the price. Could be better.,2024-01-13,Website,Canada
+REV0334,CUST6707,Yoga Mat,Sports,1,Waste of money. Broke after just two weeks of use.,2024-03-13,In-Store,Canada
+REV0335,CUST8801,Yoga Mat,Sports,3,Fine for occasional use but not for heavy duty.,2024-06-27,Website,Australia
+REV0336,CUST2885,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-12-29,Website,Canada
+REV0337,CUST3858,Running Shoes,Footwear,3,Decent product for the price. Could be better.,2024-09-21,Mobile App,Canada
+REV0338,CUST4022,Protein Powder,Nutrition,4,Five stars all the way. Incredible quality and comfort.,2024-07-26,Mobile App,Australia
+REV0339,CUST8037,Yoga Mat,Sports,4,Totally worth every penny. Love everything about it!,2024-08-18,Social Media,USA
+REV0340,CUST4063,Wireless Headphones,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-10-01,In-Store,Canada
+REV0341,CUST6134,Wireless Headphones,Electronics,5,This product changed my daily routine for the better!,2024-09-27,Social Media,India
+REV0342,CUST3826,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-08-22,In-Store,India
+REV0343,CUST4908,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-03-01,In-Store,USA
+REV0344,CUST3258,Wireless Headphones,Electronics,5,"Amazing product, will definitely buy again. Highly recommend!",2024-08-02,Social Media,Australia
+REV0345,CUST3733,Wireless Headphones,Electronics,4,Really impressed with the build quality and performance.,2024-10-11,Social Media,Canada
+REV0346,CUST1157,Wireless Headphones,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-07-02,Social Media,UK
+REV0347,CUST9056,Wireless Headphones,Electronics,2,Fell apart within days. Very poorly made.,2024-07-28,Social Media,Australia
+REV0348,CUST5785,Yoga Mat,Sports,4,Totally worth every penny. Love everything about it!,2024-04-22,Website,Canada
+REV0349,CUST9115,Wireless Headphones,Electronics,5,"Amazing product, will definitely buy again. Highly recommend!",2024-10-16,Website,India
+REV0350,CUST1681,Running Shoes,Footwear,5,Really impressed with the build quality and performance.,2024-10-04,Social Media,India
+REV0351,CUST1528,Wireless Headphones,Electronics,1,Waste of money. Broke after just two weeks of use.,2024-06-01,Social Media,Canada
+REV0352,CUST4882,Smart Watch,Electronics,2,Waste of money. Broke after just two weeks of use.,2024-03-01,Mobile App,India
+REV0353,CUST3281,Smart Watch,Electronics,2,Absolute garbage. Save your money and look elsewhere.,2024-03-25,Mobile App,UK
+REV0354,CUST9827,Running Shoes,Footwear,3,Fine for occasional use but not for heavy duty.,2024-11-01,Mobile App,Canada
+REV0355,CUST7743,Smart Watch,Electronics,4,This product changed my daily routine for the better!,2024-03-10,Website,Canada
+REV0356,CUST6277,Wireless Headphones,Electronics,3,Decent product for the price. Could be better.,2024-03-15,Mobile App,Australia
+REV0357,CUST8405,Yoga Mat,Sports,5,This product changed my daily routine for the better!,2024-07-11,Website,USA
+REV0358,CUST8996,Yoga Mat,Sports,5,This product changed my daily routine for the better!,2024-08-20,In-Store,India
+REV0359,CUST6869,Running Shoes,Footwear,2,Waste of money. Broke after just two weeks of use.,2024-11-21,Website,India
+REV0360,CUST5399,Yoga Mat,Sports,4,Great product! Customer service was also very helpful.,2024-09-10,In-Store,Canada
+REV0361,CUST1793,Smart Watch,Electronics,5,"Amazing product, will definitely buy again. Highly recommend!",2024-06-24,Website,USA
+REV0362,CUST1011,Yoga Mat,Sports,5,"Amazing product, will definitely buy again. Highly recommend!",2024-08-21,Social Media,UK
+REV0363,CUST2529,Wireless Headphones,Electronics,1,Terrible experience. Product arrived damaged.,2024-05-20,In-Store,Canada
+REV0364,CUST6005,Running Shoes,Footwear,4,"Amazing product, will definitely buy again. Highly recommend!",2024-07-21,Mobile App,Australia
+REV0365,CUST2276,Running Shoes,Footwear,3,Product is okay. Does what it's supposed to do.,2024-09-01,Mobile App,India
+REV0366,CUST6629,Wireless Headphones,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-01-05,Website,Australia
+REV0367,CUST2678,Wireless Headphones,Electronics,5,Fantastic quality and fast delivery. Very happy with my order.,2024-02-15,Website,Canada
+REV0368,CUST3340,Smart Watch,Electronics,2,Worst product I've ever bought. Do not recommend.,2024-03-09,Website,India
+REV0369,CUST4490,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-06-28,Mobile App,Australia
+REV0370,CUST3293,Protein Powder,Nutrition,3,It's alright. Not the best I've used but not the worst either.,2024-02-21,Website,India
+REV0371,CUST5059,Yoga Mat,Sports,5,Great product! Customer service was also very helpful.,2024-03-12,In-Store,USA
+REV0372,CUST1439,Wireless Headphones,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-12-19,In-Store,UK
+REV0373,CUST1894,Protein Powder,Nutrition,3,It's alright. Not the best I've used but not the worst either.,2024-05-31,Mobile App,Australia
+REV0374,CUST1197,Yoga Mat,Sports,4,Five stars all the way. Incredible quality and comfort.,2024-09-27,In-Store,Canada
+REV0375,CUST9951,Wireless Headphones,Electronics,5,Totally worth every penny. Love everything about it!,2024-07-06,Mobile App,Australia
+REV0376,CUST4534,Running Shoes,Footwear,4,Best purchase I've made this year. Quality is outstanding.,2024-05-14,Website,USA
+REV0377,CUST7590,Yoga Mat,Sports,5,Really impressed with the build quality and performance.,2024-08-04,Website,India
+REV0378,CUST2294,Protein Powder,Nutrition,3,Meets basic expectations. Packaging could be improved.,2024-06-07,Mobile App,UK
+REV0379,CUST8167,Protein Powder,Nutrition,4,Totally worth every penny. Love everything about it!,2024-06-07,Mobile App,USA
+REV0380,CUST1901,Wireless Headphones,Electronics,4,Great product! Customer service was also very helpful.,2024-08-20,In-Store,UK
+REV0381,CUST9133,Running Shoes,Footwear,4,"Amazing product, will definitely buy again. Highly recommend!",2024-03-24,In-Store,India
+REV0382,CUST3079,Protein Powder,Nutrition,3,Meets basic expectations. Packaging could be improved.,2024-07-09,In-Store,USA
+REV0383,CUST2046,Running Shoes,Footwear,5,Great product! Customer service was also very helpful.,2024-09-25,In-Store,India
+REV0384,CUST9185,Running Shoes,Footwear,5,Really impressed with the build quality and performance.,2024-01-29,Mobile App,Canada
+REV0385,CUST9336,Wireless Headphones,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-04-26,Website,USA
+REV0386,CUST3458,Running Shoes,Footwear,5,Five stars all the way. Incredible quality and comfort.,2024-07-15,Mobile App,USA
+REV0387,CUST5067,Protein Powder,Nutrition,1,Not worth the price at all. Very cheap materials.,2024-06-13,Social Media,Canada
+REV0388,CUST9225,Smart Watch,Electronics,2,Absolute garbage. Save your money and look elsewhere.,2024-03-02,Website,UK
+REV0389,CUST8620,Wireless Headphones,Electronics,2,Very disappointed. Product quality is terrible.,2024-02-05,In-Store,Canada
+REV0390,CUST4287,Smart Watch,Electronics,4,Five stars all the way. Incredible quality and comfort.,2024-07-07,In-Store,India
+REV0391,CUST9083,Smart Watch,Electronics,3,It's alright. Not the best I've used but not the worst either.,2024-07-07,Mobile App,India
+REV0392,CUST9872,Wireless Headphones,Electronics,4,Great product! Customer service was also very helpful.,2024-04-29,In-Store,USA
+REV0393,CUST4361,Smart Watch,Electronics,5,Great product! Customer service was also very helpful.,2024-02-23,Mobile App,Australia
+REV0394,CUST1719,Yoga Mat,Sports,2,Worst product I've ever bought. Do not recommend.,2024-02-17,Mobile App,India
+REV0395,CUST2565,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-02-13,Mobile App,Australia
+REV0396,CUST3141,Running Shoes,Footwear,3,Product is okay. Does what it's supposed to do.,2024-12-05,Mobile App,Canada
+REV0397,CUST8417,Smart Watch,Electronics,2,Not worth the price at all. Very cheap materials.,2024-06-11,In-Store,UK
+REV0398,CUST2731,Running Shoes,Footwear,1,Worst product I've ever bought. Do not recommend.,2024-03-20,Mobile App,Australia
+REV0399,CUST8404,Yoga Mat,Sports,5,Best purchase I've made this year. Quality is outstanding.,2024-04-16,In-Store,Australia
+REV0400,CUST5984,Smart Watch,Electronics,1,Waste of money. Broke after just two weeks of use.,2024-12-17,Website,UK
+REV0401,CUST9412,Smart Watch,Electronics,5,Fantastic quality and fast delivery. Very happy with my order.,2024-07-21,Website,Canada
+REV0402,CUST8408,Smart Watch,Electronics,1,Worst product I've ever bought. Do not recommend.,2024-07-26,Mobile App,USA
+REV0403,CUST2010,Yoga Mat,Sports,4,"Amazing product, will definitely buy again. Highly recommend!",2024-01-07,Mobile App,UK
+REV0404,CUST5240,Wireless Headphones,Electronics,1,Completely useless. Returned immediately.,2024-10-25,Website,USA
+REV0405,CUST6432,Running Shoes,Footwear,4,Five stars all the way. Incredible quality and comfort.,2024-02-17,Website,USA
+REV0406,CUST9128,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-07-21,Website,Australia
+REV0407,CUST5585,Yoga Mat,Sports,4,Fantastic quality and fast delivery. Very happy with my order.,2024-05-20,Social Media,UK
+REV0408,CUST5835,Running Shoes,Footwear,3,Acceptable. Some minor issues but overall okay.,2024-11-27,Social Media,Australia
+REV0409,CUST3248,Protein Powder,Nutrition,5,Best purchase I've made this year. Quality is outstanding.,2024-07-15,Social Media,UK
+REV0410,CUST6883,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-07-14,Social Media,India
+REV0411,CUST5430,Yoga Mat,Sports,5,Totally worth every penny. Love everything about it!,2024-07-17,Mobile App,USA
+REV0412,CUST8728,Smart Watch,Electronics,3,Product is okay. Does what it's supposed to do.,2024-01-30,In-Store,India
+REV0413,CUST4951,Wireless Headphones,Electronics,1,Waste of money. Broke after just two weeks of use.,2024-12-02,In-Store,India
+REV0414,CUST3846,Running Shoes,Footwear,3,It's alright. Not the best I've used but not the worst either.,2024-06-30,Mobile App,UK
+REV0415,CUST6761,Protein Powder,Nutrition,4,Excellent value for money. Works perfectly as described.,2024-12-26,Mobile App,India
+REV0416,CUST9035,Wireless Headphones,Electronics,2,Horrible product. Customer service was unhelpful too.,2024-03-30,Website,USA
+REV0417,CUST8831,Running Shoes,Footwear,4,Fantastic quality and fast delivery. Very happy with my order.,2024-09-26,Website,Canada
+REV0418,CUST6301,Protein Powder,Nutrition,5,"Amazing product, will definitely buy again. Highly recommend!",2024-03-31,Website,USA
+REV0419,CUST6978,Wireless Headphones,Electronics,3,Decent product for the price. Could be better.,2024-09-26,Website,Canada
+REV0420,CUST3235,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-06-14,Mobile App,Australia
+REV0421,CUST3872,Yoga Mat,Sports,3,Decent product for the price. Could be better.,2024-04-24,Social Media,Canada
+REV0422,CUST1530,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-10-17,Mobile App,India
+REV0423,CUST2705,Smart Watch,Electronics,1,Absolute garbage. Save your money and look elsewhere.,2024-11-23,Social Media,UK
+REV0424,CUST3750,Smart Watch,Electronics,3,It's alright. Not the best I've used but not the worst either.,2024-06-12,Website,Canada
+REV0425,CUST2110,Yoga Mat,Sports,4,Fantastic quality and fast delivery. Very happy with my order.,2024-12-20,In-Store,Canada
+REV0426,CUST7875,Running Shoes,Footwear,3,Product is okay. Does what it's supposed to do.,2024-08-12,Mobile App,Australia
+REV0427,CUST8855,Yoga Mat,Sports,2,Completely useless. Returned immediately.,2024-02-21,Mobile App,UK
+REV0428,CUST6221,Yoga Mat,Sports,5,Absolutely love this product! Exceeded all my expectations.,2024-01-11,In-Store,USA
+REV0429,CUST9962,Running Shoes,Footwear,4,Great product! Customer service was also very helpful.,2024-02-08,Website,Canada
+REV0430,CUST3703,Protein Powder,Nutrition,1,Horrible product. Customer service was unhelpful too.,2024-08-08,Social Media,UK
+REV0431,CUST9849,Running Shoes,Footwear,4,Fantastic quality and fast delivery. Very happy with my order.,2024-07-28,In-Store,Canada
+REV0432,CUST9043,Smart Watch,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-10-19,Mobile App,USA
+REV0433,CUST8869,Smart Watch,Electronics,5,Best purchase I've made this year. Quality is outstanding.,2024-12-04,Mobile App,USA
+REV0434,CUST2892,Running Shoes,Footwear,4,This product changed my daily routine for the better!,2024-08-30,In-Store,Australia
+REV0435,CUST9914,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-11-24,Social Media,UK
+REV0436,CUST1731,Smart Watch,Electronics,1,Completely useless. Returned immediately.,2024-08-16,In-Store,Australia
+REV0437,CUST2584,Yoga Mat,Sports,4,This product changed my daily routine for the better!,2024-03-18,Website,Canada
+REV0438,CUST1999,Protein Powder,Nutrition,4,Totally worth every penny. Love everything about it!,2024-10-10,Social Media,India
+REV0439,CUST5896,Yoga Mat,Sports,1,Horrible product. Customer service was unhelpful too.,2024-08-31,Website,Australia
+REV0440,CUST8357,Running Shoes,Footwear,4,Really impressed with the build quality and performance.,2024-03-02,Mobile App,UK
+REV0441,CUST2283,Wireless Headphones,Electronics,1,Worst product I've ever bought. Do not recommend.,2024-08-04,Social Media,UK
+REV0442,CUST2425,Wireless Headphones,Electronics,2,Terrible experience. Product arrived damaged.,2024-02-04,Social Media,India
+REV0443,CUST9561,Yoga Mat,Sports,3,Meets basic expectations. Packaging could be improved.,2024-01-07,Social Media,USA
+REV0444,CUST2654,Yoga Mat,Sports,4,Totally worth every penny. Love everything about it!,2024-02-24,In-Store,India
+REV0445,CUST8955,Smart Watch,Electronics,2,Terrible experience. Product arrived damaged.,2024-12-01,Social Media,USA
+REV0446,CUST7484,Wireless Headphones,Electronics,5,"Amazing product, will definitely buy again. Highly recommend!",2024-01-20,In-Store,UK
+REV0447,CUST6535,Running Shoes,Footwear,3,Meets basic expectations. Packaging could be improved.,2024-01-11,In-Store,Canada
+REV0448,CUST5923,Smart Watch,Electronics,1,Waste of money. Broke after just two weeks of use.,2024-03-09,Social Media,Canada
+REV0449,CUST8237,Smart Watch,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-04-06,Mobile App,Australia
+REV0450,CUST3604,Yoga Mat,Sports,3,Standard quality. Delivery took longer than expected.,2024-09-20,Website,Canada
+REV0451,CUST4158,Protein Powder,Nutrition,4,Really impressed with the build quality and performance.,2024-03-29,Mobile App,USA
+REV0452,CUST4262,Wireless Headphones,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-12-26,In-Store,Canada
+REV0453,CUST7102,Yoga Mat,Sports,4,Best purchase I've made this year. Quality is outstanding.,2024-05-03,Social Media,India
+REV0454,CUST3679,Yoga Mat,Sports,5,Five stars all the way. Incredible quality and comfort.,2024-06-25,In-Store,USA
+REV0455,CUST4511,Smart Watch,Electronics,4,Absolutely love this product! Exceeded all my expectations.,2024-10-19,Mobile App,UK
+REV0456,CUST1145,Wireless Headphones,Electronics,4,Great product! Customer service was also very helpful.,2024-12-15,Social Media,UK
+REV0457,CUST6004,Wireless Headphones,Electronics,3,Product is okay. Does what it's supposed to do.,2024-05-09,In-Store,Australia
+REV0458,CUST8646,Yoga Mat,Sports,2,Horrible product. Customer service was unhelpful too.,2024-04-21,In-Store,India
+REV0459,CUST7131,Protein Powder,Nutrition,4,Best purchase I've made this year. Quality is outstanding.,2024-09-18,In-Store,Canada
+REV0460,CUST6327,Running Shoes,Footwear,5,Excellent value for money. Works perfectly as described.,2024-11-23,In-Store,Canada
+REV0461,CUST7620,Smart Watch,Electronics,4,Really impressed with the build quality and performance.,2024-01-30,In-Store,UK
+REV0462,CUST7628,Running Shoes,Footwear,3,Meets basic expectations. Packaging could be improved.,2024-08-02,Social Media,USA
+REV0463,CUST4643,Protein Powder,Nutrition,3,Acceptable. Some minor issues but overall okay.,2024-06-24,Social Media,Canada
+REV0464,CUST2599,Protein Powder,Nutrition,4,"Amazing product, will definitely buy again. Highly recommend!",2024-05-30,Social Media,UK
+REV0465,CUST6499,Smart Watch,Electronics,3,Fine for occasional use but not for heavy duty.,2024-12-14,Website,UK
+REV0466,CUST7089,Smart Watch,Electronics,5,This product changed my daily routine for the better!,2024-06-18,In-Store,India
+REV0467,CUST2166,Smart Watch,Electronics,5,Best purchase I've made this year. Quality is outstanding.,2024-01-28,Social Media,UK
+REV0468,CUST1885,Protein Powder,Nutrition,5,Great product! Customer service was also very helpful.,2024-07-30,Mobile App,UK
+REV0469,CUST6183,Wireless Headphones,Electronics,5,Totally worth every penny. Love everything about it!,2024-03-14,Mobile App,USA
+REV0470,CUST1950,Yoga Mat,Sports,5,"Amazing product, will definitely buy again. Highly recommend!",2024-11-20,Website,Australia
+REV0471,CUST2442,Smart Watch,Electronics,4,"Amazing product, will definitely buy again. Highly recommend!",2024-09-07,Mobile App,India
+REV0472,CUST7280,Yoga Mat,Sports,3,"Works as described. Nothing more, nothing less.",2024-09-01,Website,USA
+REV0473,CUST9700,Protein Powder,Nutrition,4,Excellent value for money. Works perfectly as described.,2024-06-13,Mobile App,USA
+REV0474,CUST6641,Running Shoes,Footwear,3,It's alright. Not the best I've used but not the worst either.,2024-12-21,In-Store,UK
+REV0475,CUST2069,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-03-26,Website,Canada
+REV0476,CUST3192,Smart Watch,Electronics,5,Really impressed with the build quality and performance.,2024-08-10,In-Store,Australia
+REV0477,CUST4742,Smart Watch,Electronics,3,Decent product for the price. Could be better.,2024-01-10,Mobile App,UK
+REV0478,CUST7006,Wireless Headphones,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-03-04,Website,Australia
+REV0479,CUST1785,Smart Watch,Electronics,3,Acceptable. Some minor issues but overall okay.,2024-10-31,Website,USA
+REV0480,CUST3024,Running Shoes,Footwear,3,"Works as described. Nothing more, nothing less.",2024-07-13,In-Store,Australia
+REV0481,CUST2654,Wireless Headphones,Electronics,5,Absolutely love this product! Exceeded all my expectations.,2024-08-03,In-Store,India
+REV0482,CUST2928,Protein Powder,Nutrition,3,"Works as described. Nothing more, nothing less.",2024-09-18,In-Store,USA
+REV0483,CUST9571,Running Shoes,Footwear,4,Totally worth every penny. Love everything about it!,2024-05-14,Mobile App,Canada
+REV0484,CUST8875,Yoga Mat,Sports,5,Absolutely love this product! Exceeded all my expectations.,2024-04-16,In-Store,UK
+REV0485,CUST9095,Running Shoes,Footwear,4,Best purchase I've made this year. Quality is outstanding.,2024-10-20,Mobile App,USA
+REV0486,CUST4787,Protein Powder,Nutrition,5,Best purchase I've made this year. Quality is outstanding.,2024-11-25,Social Media,Canada
+REV0487,CUST5760,Smart Watch,Electronics,4,Best purchase I've made this year. Quality is outstanding.,2024-01-21,In-Store,Canada
+REV0488,CUST3267,Yoga Mat,Sports,3,Average quality. Nothing special but works fine.,2024-01-05,Mobile App,Canada
+REV0489,CUST7105,Smart Watch,Electronics,2,Absolute garbage. Save your money and look elsewhere.,2024-02-17,In-Store,UK
+REV0490,CUST8835,Running Shoes,Footwear,5,Five stars all the way. Incredible quality and comfort.,2024-07-16,Social Media,UK
+REV0491,CUST7816,Running Shoes,Footwear,4,Absolutely love this product! Exceeded all my expectations.,2024-02-23,Social Media,India
+REV0492,CUST1472,Yoga Mat,Sports,5,Great product! Customer service was also very helpful.,2024-11-09,Mobile App,Australia
+REV0493,CUST2037,Yoga Mat,Sports,5,Great product! Customer service was also very helpful.,2024-01-24,In-Store,Canada
+REV0494,CUST6542,Running Shoes,Footwear,3,Fine for occasional use but not for heavy duty.,2024-12-08,Website,Australia
+REV0495,CUST1894,Wireless Headphones,Electronics,4,Great product! Customer service was also very helpful.,2024-10-12,Website,UK
+REV0496,CUST9055,Protein Powder,Nutrition,1,Horrible product. Customer service was unhelpful too.,2024-02-08,In-Store,UK
+REV0497,CUST7203,Smart Watch,Electronics,1,Very disappointed. Product quality is terrible.,2024-10-08,Social Media,UK
+REV0498,CUST9166,Running Shoes,Footwear,5,Totally worth every penny. Love everything about it!,2024-02-15,Social Media,Canada
+REV0499,CUST7755,Running Shoes,Footwear,1,Very disappointed. Product quality is terrible.,2024-07-25,Website,India
+REV0500,CUST4389,Protein Powder,Nutrition,5,Best purchase I've made this year. Quality is outstanding.,2024-09-17,Social Media,Canada
